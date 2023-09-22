@@ -1,2 +1,0 @@
-class IndianTeam extends CricketTeam{
-}
