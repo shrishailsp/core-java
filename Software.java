@@ -1,5 +1,0 @@
-class Software{
-
-Hardware hardware;
-
-}

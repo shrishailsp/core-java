@@ -1,4 +1,0 @@
-class Hotel{
-
-Kitchen kitchen;
-}
